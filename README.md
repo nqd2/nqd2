@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm Nguyen Quy Duc
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT-E6+K68+HUST+%F0%9F%8E%93;Edge+AI+%26+Low-level+Programming+%F0%9F%9B%A0%EF%B8%8F;If+you+cant+find+what+you+want;build+it+yourself." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT-E6+K68+HUST+%F0%9F%8E%93;Fk+around+%26+find+out+%F0%9F%9B%A0%EF%B8%8F;If+you+cant+find+what+you+want;build+it+yourself." alt="Typing SVG" />
 
 </div>
 
