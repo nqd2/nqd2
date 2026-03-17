@@ -11,8 +11,8 @@
 ## 💫 About Me
 
 🎓 **IT-E6 K68 HUST Student, Hanoi**  
-🛠️ **Interested in Edge AI and Low-level Programming**  
-🦀 **Learning Rust**  
+🛠️ **Interested in making things that helps me in various ways**  
+🦀 **Learning about AI Agents**  
 🎮 **Hobbies:** Chess, Coding, Photoshop, LoL  
 🎵 **Music:** Jpop, Vpop, Rock  
 🍵 **Tea Lover**  
