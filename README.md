@@ -97,7 +97,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=nqd2&theme=transparent&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nqd2&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
+![](https://github-readme-stats-one-liard-57.vercel.app/api/top-langs/?username=nqd2&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=12)
 
 </div>
 
