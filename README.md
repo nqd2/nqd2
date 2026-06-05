@@ -138,9 +138,7 @@
 
 ## 👀 Visitor Count
 
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=nqd2&label=Profile%20Views&color=36BCF7&style=for-the-badge)
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=nqd2.visitor-badge" alt="Visitor Count"/>
 
 </div>
 
